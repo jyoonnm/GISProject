@@ -1,0 +1,24 @@
+---
+title: "Overview"
+editor: visual
+---
+
+## Overview
+
+In this project, we are given two major themes and sub-theme. Detail description of this project is available on this [page](https://jyoonnm28-gisproject.netlify.app/). Land cover classification is a commonly application area of digital image analysis.
+
+## Literature review
+
+In this project, the following articles will be reviewed.
+
+## Objectives
+
+The objectives of this project are as follows:
+
+-   objective 1
+
+-   objective 2
+
+## Tasks
+
+The project tasks are as follows:
